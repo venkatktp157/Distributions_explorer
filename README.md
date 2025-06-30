@@ -1,0 +1,1 @@
+Distributions explorer for educational purposes. By moving the various sliders in each type of distribution, shape of distribution can be visualized. 
